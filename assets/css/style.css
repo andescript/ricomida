@@ -1,0 +1,32 @@
+body {
+  font-family: 'Cabin', sans-serif; // fuente tipográfica
+}
+
+.lobster {
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 37pt;
+}
+
+.jumbotron h1 {
+  font-family: 'Cabin', sans-serif;
+}
+
+#myCarousel-indicators li {
+  border-radius: 50%;
+}
+
+#receta {
+  font-size: 16pt;
+}
+
+.titulo {
+  color: green;
+}
+
+.cambiocolor {
+  color: red;
+}
