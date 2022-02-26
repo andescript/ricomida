@@ -1,32 +1,19 @@
 body {
-  font-family: 'Cabin', sans-serif; // fuente tipográfica
+  font-family: 'Cabin', sans-serif; // fuente general
 }
 
 .lobster {
-  font-family: 'Lobster', cursive;
+  font-family: 'Lobster', cursive; // fuente Lobster
 }
 
 .navbar-brand {
-  font-family: 'Lobster', cursive;
-  font-size: 37pt;
-}
-
-.jumbotron h1 {
-  font-family: 'Cabin', sans-serif;
+  font-size: 37pt; // tamaño fuente logo
 }
 
 #myCarousel-indicators li {
-  border-radius: 50%;
+  border-radius: 50%; // indicadores carousel
 }
 
-#receta {
-  font-size: 16pt;
-}
-
-.titulo {
-  color: green;
-}
-
-.cambiocolor {
-  color: red;
+#recetas {
+  font-size: 16pt; // tamaño fuente recetas
 }
